@@ -25,22 +25,23 @@ java StarBuzzClient [beverage] [ingredient]
 
 Following are the beverage options available to a user:
 
-**BEVERAGE        : [INGREDIENTS]**
-Tea\_Latte        : [RedTea, Milk]
-White\_Tea        : [WhiteTea]
-Red\_Tea          : [RedTea]
-Flower\_Tea       : [GreenTea, Jasmine]
-Decaf\_Cappuccino : [Decaf, WhipCream]
-Ginger\_Tea       : [GreenTea, Ginger]
-Espresso          : [Espresso]
-HouseBlend        : [Houseblend]
-Decaf\_Mocha      : [Decaf, Chocolate]
-Decaf             : [Decaf]
-Mocha             : [Espresso, Chocolate]
-Latte             : [Espresso, Milk]
-Decaf\_Latte      : [Decaf, Milk]
-Green\_Tea        : [GreenTea]
-Cappuccino        : [Espresso, WhipCream]
+BEVERAGE | [INGREDIENTS]
+--- | ---
+Tea\_Latte | [RedTea, Milk]
+White\_Tea | [WhiteTea]
+Red\_Tea | [RedTea]
+Flower\_Tea | [GreenTea, Jasmine]
+Decaf\_Cappuccino | [Decaf, WhipCream]
+Ginger\_Tea | [GreenTea, Ginger]
+Espresso | [Espresso]
+HouseBlend | [Houseblend]
+Decaf\_Mocha | [Decaf, Chocolate]
+Decaf | [Decaf]
+Mocha | [Espresso, Chocolate]
+Latte | [Espresso, Milk]
+Decaf\_Latte | [Decaf, Milk]
+Green\_Tea | [GreenTea]
+Cappuccino | [Espresso, WhipCream]
 
 ### Example:
 
