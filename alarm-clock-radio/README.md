@@ -2,7 +2,7 @@
 
 This is a simple implementation of an alarm, that provides clock and radio functionality. The user can choose from a few options, and each one will perform a unique function that combines the operations of the alarm, the clock and the radio. The program will terminate only when the user selects the option to turn off the device. 
 
-### Execution
+## Execution
 
 1. Clone this repository using https
 ```
