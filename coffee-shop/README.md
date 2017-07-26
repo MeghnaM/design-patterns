@@ -43,9 +43,9 @@ Decaf\_Latte | [Decaf, Milk]
 Green\_Tea | [GreenTea]
 Cappuccino | [Espresso, WhipCream]
 
-### Example:
+## Example:
 
-Here is an example of a command that will give you the correct price of a drink:
+Here is an example of a command that will execute correctly and return the price of an order
 ```
 java StarBuzzClient Tea_Latte Milk
 ```
