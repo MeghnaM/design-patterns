@@ -2,6 +2,17 @@
 
 This is a simple implementation of a coffee-shop order-taking system that accepts a user's drink order and returns the price of the drink. 
 
+## Background
+
+### Decorator Pattern
+
+#### Explanation of pattern
+#### Pattern in code
+
+### Strategy Pattern
+#### Explanation of pattern
+#### Pattern in code
+
 ## Execution
 
 1. Clone this repository using https
