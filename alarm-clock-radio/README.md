@@ -8,12 +8,15 @@ This is a simple implementation of an alarm, that provides clock and radio funct
 ```
 git clone https://github.com/MeghnaM/design-patterns.git
 ```
-2. *cd* to the *alarm-clock-radio* folder from the command line
-3. Run the following command to build all the files in this project:
+2. Navigate to the appropriate folder using the command line
+```
+cd design-patterns/alarm-clock-radio/
+```
+3. Run the following command to build all the files in this project
 ```
 make
 ```
-4. Run the following command to execute the main class:
+4. Run the following command to execute the main class
 ```
 make run
 ```
