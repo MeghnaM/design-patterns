@@ -1,4 +1,19 @@
-# AlarmClockRadio
-Design Patterns
+# alarm-clock-radio
 
-Implementation of an alarm clock that provides radio functionality. 
+This is a simple implementation of an alarm, that provides clock and radio functionality. The user can choose from a few options, and each one will perform a unique function that combines the operations of the alarm, the clock and the radio. The program will terminate only when the user selects the option to turn off the device. 
+
+### Execution
+
+1. Clone this repository using https
+```
+git clone https://github.com/MeghnaM/design-patterns.git
+```
+2. *cd* to the *alarm-clock-radio* folder from the command line
+3. Run the following command to build all the files in this project:
+```
+make
+```
+4. Run the following command to execute the main class:
+```
+make run
+```
